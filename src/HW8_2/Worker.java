@@ -1,6 +1,6 @@
 package HW8_2;
 
-public class Worker extends Employee{
+class Worker extends Employee{
 /*
 Необходимо создать класс Worker где метод getSalaryWorker  будет возвращать зарплату, базовую ставку.
  */

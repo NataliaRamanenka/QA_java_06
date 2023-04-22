@@ -1,9 +1,6 @@
 package HW9;
 
-import HW8_2.Employee;
-import HW8_2.Manager;
-
-public class EmployeeUtils {
+class EmployeeUtils {
     /*
     Необходимо создать класс со следующими методами:
     поиск сотрудника в массиве по его имени (findByName)

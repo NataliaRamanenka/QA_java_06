@@ -2,7 +2,7 @@ package HW9;
 
 import java.text.Format;
 
-public class HW9 {
+class HW9 {
 
     public static void main(String[] args) {
         /*

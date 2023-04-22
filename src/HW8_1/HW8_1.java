@@ -1,6 +1,6 @@
 package HW8_1;
 
-public class HW8_1 {
+class HW8_1 {
 
     public static void main(String[] args) {
     Employee Alex = new Employee("Alex", 35, 'M', 100);

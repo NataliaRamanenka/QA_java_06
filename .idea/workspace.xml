@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49038ec3-d862-400e-910d-5800867f1ee2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_1/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_1/HW13_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_1/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_1/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_2/BaseEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_2/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW13/HW13_2/MonthUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW7_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW7_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW7_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW7_1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW7_1/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW7_1/Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_1/HW8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_1/HW8_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_1/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_1/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_2/BaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_2/BaseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_2/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_2/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_2/EmployeeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_2/EmployeeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_2/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_2/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW8_2/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW8_2/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW9/BaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW9/BaseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW9/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW9/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW9/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW9/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW9/EmployeeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW9/EmployeeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW9/HW9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW9/HW9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW9/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW9/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW9/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW9/Worker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NT8lsFTwhNruL7vGgaXjHH4X3N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/nata/IdeaProjects/Обучение/QA_6",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HW13.HW13_1" />
+      <recent name="HW13" />
+      <recent name="HW9" />
+      <recent name="HW8_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Meet_3">
+    <configuration name="HW10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW10.HW10_2" />
+      <module name="QA_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW10_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW10.HW10_3" />
+      <module name="QA_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW12_scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW12_scanner" />
+      <module name="QA_6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW13_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW13.HW13_1.HW13_1" />
+      <module name="QA_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW13.HW13_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Meet_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="group.Meet_3" />
+      <module name="QA_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="group.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Meet_3" />
+        <item itemvalue="Application.HW13_1" />
+        <item itemvalue="Application.HW12_scanner" />
+        <item itemvalue="Application.HW10_3" />
+        <item itemvalue="Application.HW10_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49038ec3-d862-400e-910d-5800867f1ee2" name="Changes" comment="" />
+      <created>1679676867150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679676867150</updated>
+    </task>
+    <servers />
+  </component>
+</project>

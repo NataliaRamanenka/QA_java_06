@@ -1,6 +1,6 @@
 package HW8_1;
 
-public class Manager extends Employee{
+class Manager extends Employee{
     /*
      Необходимо создать класс Manager с полями: имя, возраст, пол, ЗП в день и количество подчиненных.
      Все поля сделать приватными и для каждого поля добавить методы set и get. Класс должен иметь метод -

@@ -1,6 +1,6 @@
 package HW8_2;
 
-public class Director extends BaseManager{
+class Director extends BaseManager{
     /*
     Необходимо создать класс Director, метод getSalaryDirector должен возвращать результат по формуле -
     <базовая ставка> * (<количество подчиненных> / 100 * 9).

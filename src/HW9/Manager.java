@@ -1,6 +1,6 @@
 package HW9;
 
-public class Manager extends BaseManager {
+class Manager extends BaseManager {
     /*
     Необходимо создать класс Manager в который нужно добавить следующие методы:
     getNumberOfSubordinates - получить количество подчиненных

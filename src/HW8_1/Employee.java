@@ -1,6 +1,6 @@
 package HW8_1;
 
-public class Employee {
+class Employee {
     /*
     Необходимо создать класс Employee с полями: имя, возраст, пол и ЗП в день. Все поля сделать приватными и
     для каждого поля добавить методы set и get. Класс должен иметь метод - getSalary(int days),

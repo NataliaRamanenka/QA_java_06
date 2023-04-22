@@ -1,6 +1,6 @@
 package HW7_1;
 
-public class Employee{
+class Employee{
     /*
 Необходимо создать класс Employee с полями как у Person (из предыдущего задания) и поле зарплата.
 Класс должен иметь метод isSameName(Employee employee), который возвращает true, если у сотрудника,

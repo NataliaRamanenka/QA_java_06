@@ -1,6 +1,6 @@
 package HW9;
 
-public class Employee {
+class Employee {
     /*
     Необходимо создать класс Employee со следующими методами:
 getName - получить имя

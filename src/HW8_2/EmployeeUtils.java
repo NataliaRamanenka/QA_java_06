@@ -1,6 +1,6 @@
 package HW8_2;
 
-public class EmployeeUtils {
+class EmployeeUtils {
     /*
     Необходимо создать класс со следующими методами:
     поиск сотрудника в массиве по его имени (findByName)
